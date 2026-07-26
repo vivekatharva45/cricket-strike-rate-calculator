@@ -1,5 +1,5 @@
-# cricket-strike-rate-calculator
-A beginner level Python project, which utilizes simple logic to calculate a batsman's strike rate. Built while learning through Harvard's CS 50(Introduction to Python).
+#Atharva's Cricket analytics toolkit
+A beginner level Python project, which utilizes simple logic to analyze a cricketer's performamnce on the basis of information provided by the user. Built while learning through Harvard's CS 50(Introduction to Python).
 Features:
 -Calculates batting strike rate
 - Takes player name, runs, and balls faced
