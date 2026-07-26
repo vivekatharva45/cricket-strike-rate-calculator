@@ -10,3 +10,15 @@ Strike rate = Runs/Balls * 100
 
 
 Future updates on the way!
+--
+
+
+Version 2.0:
+Included a fully functional menu allowing the user to choose between options!
+Now along with strike rate, user can also calculate:
+ -Economy of bowlers
+ -Average of batsman
+
+
+Performance review included for Strike rate as well as economy!
+--
